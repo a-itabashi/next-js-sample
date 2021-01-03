@@ -8,9 +8,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "@firebase/firestore": "^2.1.1",
+    "bootstrap": "^5.0.0-beta1",
+    "dayjs": "^1.9.8",
+    "firebase": "^8.2.1",
+    "firestore": "^1.1.6",
     "next": "10.0.4",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "react-toastify": "^6.2.0",
+    "recoil": "^0.1.2",
+    "sass": "^1.32.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.19"
